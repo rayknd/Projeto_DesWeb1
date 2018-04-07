@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+#rSub{
+
+	padding:10px;
+	float: right;
+}
+
+#sPais{
+	float: left;
+}
+#sAno{
+	float:left;
+}
+#sModalidade{
+	float: left;
+}
+
+
